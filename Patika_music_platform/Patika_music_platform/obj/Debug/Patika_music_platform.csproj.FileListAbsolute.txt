@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\bin\Debug\Patika_music_platform.exe.config
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\bin\Debug\Patika_music_platform.exe
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\bin\Debug\Patika_music_platform.pdb
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\obj\Debug\Patika_music_platform.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\obj\Debug\Patika_music_platform.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\obj\Debug\Patika_music_platform.exe
+C:\Users\LENOVO\source\repos\Patika_music_platform\Patika_music_platform\obj\Debug\Patika_music_platform.pdb
