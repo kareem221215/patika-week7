@@ -15,10 +15,10 @@
 -->
 
 <div align="center">
-    <a href="https://github.com/kareem221215/Patika_week7/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/kareem221215/Patika_week7?color=ff69b4&style=for-the-badge"></a>
-    <a href="https://github.com/kareem221215/Patika_week7/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/kareem221215/Patika_week7?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
-    <a href=https://github.com/kareem221215/Patika_week7/issues><img alt="GitHub issues" src="https://img.shields.io/github/issues/kareem221215/Patika_week7?color=brightgreen&label=issues&style=for-the-badge"></a>
-    <a href=https://github.com/kareem221215/Patika_week7/network><img alt="GitHub forks" src="https://img.shields.io/github/forks/kareem221215/Patika_week7?color=9cf&label=forks&style=for-the-badge"></a>
+    <a href="https://github.com/kareem221215/patika-week7/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/kareem221215/patika-week7?color=ff69b4&style=for-the-badge"></a>
+    <a href="https://github.com/kareem221215/patika-week7/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/kareem221215/patika-week7?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
+    <a href=https://github.com/kareem221215/patika-week7/issues><img alt="GitHub issues" src="https://img.shields.io/github/issues/kareem221215/patika-week7?color=brightgreen&label=issues&style=for-the-badge"></a>
+    <a href=https://github.com/kareem221215/patika-week7/network><img alt="GitHub forks" src="https://img.shields.io/github/forks/kareem221215/patika-week7?color=9cf&label=forks&style=for-the-badge"></a>
 </div>
 <br>
 
