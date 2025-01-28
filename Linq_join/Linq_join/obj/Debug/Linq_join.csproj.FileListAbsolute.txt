@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\bin\Debug\Linq_join.exe.config
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\bin\Debug\Linq_join.exe
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\bin\Debug\Linq_join.pdb
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\obj\Debug\Linq_join.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\obj\Debug\Linq_join.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\obj\Debug\Linq_join.exe
+C:\Users\LENOVO\source\repos\Linq_join\Linq_join\obj\Debug\Linq_join.pdb
